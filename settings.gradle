@@ -1,0 +1,2 @@
+rootProject.name='MyBackgroundThreadExample'
+include ':app'
